@@ -1,6 +1,6 @@
 {
-  "name":"ANYWAY-MD-V1",
-  "description":"Best whatsapp bot developed by mr anyway + Baraka Bega",
+  "name":"GWANTER-MD-V1",
+  "description":"Best whatsapp bot developed by mr gwanter + George assistant",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.imgur.com/TVHDPwX.jpeg",
   "repository":"https://github.com/SIMON32883/MR-ANYWAY-MD",
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "Mr Gwanter"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255678892560,255762190568"
+    "value": "+255614474247"
   },
     "WARN_COUNT":
   {
